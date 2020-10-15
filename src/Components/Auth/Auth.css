@@ -1,0 +1,60 @@
+.bigLetters {
+    color: rgb(255, 255, 255) ; 
+    
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 80px;
+  font-weight: 500;
+  margin-right:  50%;
+  position: inherit;
+ 
+}
+label {
+    color: rgb(6, 4, 12) ; 
+    font-size: larger;
+    font-variant: small-caps;
+    font-size: 40px;
+    
+}
+input {
+    border: 4px solid rgb(182, 69, 103);
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 40px;
+    background-color: rgba(255, 241, 248, 0.753);
+}
+
+div.submit{
+    margin-top: 5%;
+    
+   
+}
+.SubmitB {
+   margin-right: 3em;
+   height: 60px;
+   
+   
+}
+.switch {
+    left: 7em;
+    height: 60px;
+}
+
+form {
+    margin-bottom: 40px;
+   
+   
+}
+
+#fotosAuth {
+    width: 300px;
+    height: 200px;
+    
+  margin-left: 0%;
+}
+.formSection {
+    margin-top: -20%;
+}
+
+
+
